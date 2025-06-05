@@ -6,10 +6,9 @@ This project presents an in-depth analysis of a bank's marketing campaign datase
 
 # Dataset Fields:
 
- -age:  Ageofthe client (numeric)
+ -age:  Age of the client (numeric)
  
  -job:  Type of job (e.g., admin., technician, blue-collar, etc.)
- 
  
  -marital:  Marital status (e.g., married, single, divorced)
  
@@ -29,9 +28,9 @@ This project presents an in-depth analysis of a bank's marketing campaign datase
  
  -duration:  Last contact duration (in seconds)
  
- -campaign:  Numberofcontacts performed during this campaign (for the current client)
+ -campaign:  Number of contacts performed during this campaign (for the current client)
  
- -pdays:  Numberofdayssince the client was last contacted (999 means the client was not previously contacted)
+ -pdays:  Number of days since the client was last contacted (999 means the client was not previously contacted)
  
  -previous:  Number of contacts performed before this campaign
  
@@ -45,9 +44,9 @@ This project presents an in-depth analysis of a bank's marketing campaign datase
  
  -euribor3m:  3-month Euribor rate (daily)
  
- -nr_employed:  Numberofemployees(related to employment rate)
+ -nr_employed:  Number of employees(related to employment rate)
  
- -y:  Didtheclient subscribe to a term deposit? (yes or no)
+ -y:  Did the client subscribe to a term deposit? (yes or no)
 
 
 
